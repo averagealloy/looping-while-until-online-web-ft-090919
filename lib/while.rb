@@ -2,7 +2,7 @@ def using_while
   #your code here
    using_while = 0
    while using_while < 10
-     puts "Wingardium Leviosa"
+     p "Wingardium Leviosa"
      using_while += 1
 
     end
