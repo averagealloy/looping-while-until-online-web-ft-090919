@@ -1,6 +1,6 @@
 def using_while
   #your code here
-  while usin < 10
+  while using_w < 10
     puts  "Wingardium Leviosa"
     levitation_force += 1
     end
