@@ -3,7 +3,7 @@ def using_while
    levitation = 0
    while using_while < 10
      return "Wingardium Leviosa"
-      += 1
+     usin += 1
 
     end
 
