@@ -7,7 +7,7 @@ def using_while
     end
 
 end
-def using_while 
+def using_while
 counter = 0
 while counter < 20
   puts "Wingardium Leviosa"
