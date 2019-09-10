@@ -1,6 +1,6 @@
 def using_while
   #your code here
-   count
+   counter =
     end
 
 end
