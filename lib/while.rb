@@ -9,7 +9,7 @@ def using_while
 
 end
 #def using_while
-counter = 0
+#counter = 0
 while counter < 20
   puts "Wingardium Leviosa"
   counter += 1
