@@ -1,5 +1,5 @@
 def using_while
-  levitation_force
+  levitation_force = 0 
 #def using_while
 #counter = 0
 #while counter < 20
