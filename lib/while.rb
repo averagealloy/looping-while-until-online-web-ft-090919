@@ -9,6 +9,6 @@ def using_while
 end
 counter = 0
 while counter < 20
-  puts "Wingardium"
+  puts "Wingardium "
   counter += 1
 end
