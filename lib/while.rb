@@ -1,9 +1,14 @@
 def using_while
   #your code here
    levitation = 0
-   while levitation  10 
+   while levitation  10
      puts "Wingardium Leviosa"
      levitation_force += 1
     end
 
+end
+counter = 0
+while counter < 20
+  puts "The current number is less than 20."
+  counter += 1
 end
