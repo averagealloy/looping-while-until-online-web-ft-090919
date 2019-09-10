@@ -2,7 +2,7 @@ def using_while
   #your code here
    levitation = 0
    while levitation < 10
-     ret "Wingardium Leviosa"
+     return "Wingardium Leviosa"
      levitation_force += 1
 
     end
