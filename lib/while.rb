@@ -1,6 +1,6 @@
 def using_while
   #your code here
-   uwsing = 0
+   usi = 0
    while using_while < 10
      return "Wingardium Leviosa"
      using_while += 1
